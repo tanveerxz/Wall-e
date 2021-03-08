@@ -1,0 +1,23 @@
+{
+  "name": "coding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "0.0.1-security",
+    "got": "^11.8.1",
+    "minecraft-server-util": "^3.4.2",
+    "weather-js": "^2.0.0",
+    "yt-search": "^2.5.1",
+    "ytdl-core": "^4.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
