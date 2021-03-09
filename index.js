@@ -51,4 +51,4 @@ client.once('ready' , () => {
 // }
 //     });
 
-client.login("ODEzMTMzNzA0NDAxNTE4NjAy.YDK3xg.pmmxhIJP664Z1dV6IoF4M4mxG-M");
+client.login(process.env.TOKEN);
